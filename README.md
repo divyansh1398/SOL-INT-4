@@ -24,8 +24,6 @@ To execute the program, please adhere to the following steps:
 
 Once you've finished the steps, you can interact with the contract by executing the following command:
 
-```
-anchor test
-```
+4. Run `anchor test` to test the script.
 
 It will execute the `create-nft-program.ts` file, followed by the calling of all four functions.
